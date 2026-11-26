@@ -1,0 +1,36 @@
+name: Something didn't work
+description: A tool failed, gave a wrong result or was too slow.
+labels: [bug]
+body:
+  - type: input
+    id: tool
+    attributes:
+      label: Which tool?
+      description: Paste the page address.
+      placeholder: https://madosuite.com/compress-pdf
+    validations:
+      required: true
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser
+      options: [Chrome, Edge, Safari on Mac, Safari on iPhone or iPad, Firefox, Chrome on Android, Other]
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what you saw instead. A screenshot of the message helps.
+    validations:
+      required: true
+  - type: input
+    id: file
+    attributes:
+      label: The file
+      description: Its type and rough size, e.g. "scanned PDF, 40 pages, 25 MB". Please don't attach private files.
+  - type: input
+    id: device
+    attributes:
+      label: Device
+      placeholder: MacBook Air M2, Windows laptop with 8 GB, iPhone 13…

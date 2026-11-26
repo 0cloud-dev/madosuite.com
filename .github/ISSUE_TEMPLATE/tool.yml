@@ -1,0 +1,21 @@
+name: Ask for a tool
+description: A file job you still have to do somewhere else.
+labels: [tool request]
+body:
+  - type: textarea
+    id: job
+    attributes:
+      label: What do you want to do?
+      description: Describe the job in your own words, e.g. "turn a Keynote file into PDF".
+    validations:
+      required: true
+  - type: input
+    id: now
+    attributes:
+      label: What do you use for it today?
+      placeholder: A website, an app, or nothing yet
+  - type: textarea
+    id: files
+    attributes:
+      label: Which files?
+      description: Formats and rough sizes.
