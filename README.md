@@ -9,7 +9,8 @@
 **Every file job, done in the page. Nothing leaves your device.**
 
 356 free tools for PDF, Word, Excel, PowerPoint, images, video, audio, ZIP and QR.<br>
-They run in your browser, so your files are never uploaded. No sign-up, no daily limit, no watermark.
+They run in your browser, so your files are never uploaded. No sign-up, no daily limit, no watermark.<br>
+A free alternative to <b>iLovePDF</b>, <b>Smallpdf</b>, <b>Adobe Acrobat online</b>, <b>remove.bg</b>, <b>TinyPNG</b>, <b>CloudConvert</b> and <b>WinRAR</b>, all in one place.
 
 [**Open Madosuite →**](https://madosuite.com) &nbsp;·&nbsp; [All tools](https://madosuite.com/all-tools) &nbsp;·&nbsp; [Desktop in your browser](https://madosuite.com/desktop) &nbsp;·&nbsp; [Guides](https://madosuite.com/blog) &nbsp;·&nbsp; [Report a problem](../../issues/new/choose) &nbsp;·&nbsp; [ภาษาไทย](https://madosuite.com/th)
 
@@ -56,6 +57,126 @@ You see the result before you download it, and you can change the settings and w
 <td width="50%"><a href="https://madosuite.com/desktop"><img src="assets/desktop.jpg" alt="The Madosuite Desktop with a presentation app, an image editor, a spreadsheet and a terminal open"></a><br><sub><b>Desktop in your browser</b>: open-source office and design apps side by side in one tab.</sub></td>
 </tr>
 </table>
+
+## A free alternative to iLovePDF, Smallpdf, remove.bg and the rest
+
+The sites most people use for file jobs upload your file, then cap you: a few tasks an hour, a file-size limit, a watermark, or a paid plan for the rest. Madosuite does the same jobs on your own device, so there is nothing to cap.
+
+| Instead of | Use | What changes |
+|---|---|---|
+| iLovePDF, Smallpdf, Sejda, PDF24 | [Merge](https://madosuite.com/merge-pdf), [compress](https://madosuite.com/compress-pdf), [convert](https://madosuite.com/pdf-to-word) and [sign](https://madosuite.com/sign-pdf) PDFs | No hourly task limit, no file-size cap, nothing uploaded |
+| Adobe Acrobat online | [Edit PDF](https://madosuite.com/edit-pdf), [OCR PDF](https://madosuite.com/ocr-pdf), [Protect PDF](https://madosuite.com/protect-pdf) | No Adobe account |
+| remove.bg | [Remove background](https://madosuite.com/remove-background) | Full-size result, free, the photo stays on your device |
+| TinyPNG, Squoosh | [Compress image](https://madosuite.com/compress-image) | No 5 MB cap, a whole folder at once |
+| CloudConvert, Convertio, Zamzar | [All converters](https://madosuite.com/all-tools) | No daily conversion count, no queue |
+| Kapwing, Clideo, Clipchamp | [Compress video](https://madosuite.com/compress-video) and the [video tools](https://madosuite.com/video-tools) | No watermark, no account |
+| WinRAR, WinZip, 7-Zip | [Open RAR](https://madosuite.com/unrar-online) and the [ZIP tools](https://madosuite.com/zip-tools) | Works on a Mac, a phone or a Chromebook, nothing to install |
+| Photoshop, Microsoft 365, Figma | [The Desktop](https://madosuite.com/desktop) | Open-source apps in a tab, free |
+
+Every comparison, with what each site limits and what Madosuite does instead, is on [madosuite.com/alternatives](https://madosuite.com/alternatives):
+
+<details>
+<summary><b>PDF and scanning</b> · 14</summary>
+<br>
+
+- [iLovePDF Alternative That Never Uploads Your File](https://madosuite.com/alternatives/ilovepdf)
+- [Free Smallpdf Alternative With No Daily Limit](https://madosuite.com/alternatives/smallpdf)
+- [Adobe Acrobat Online Alternative, No Account](https://madosuite.com/alternatives/adobe-acrobat-online)
+- [Free Acrobat Pro alternative in your browser: PDF](https://madosuite.com/alternatives/acrobat)
+- [Sejda Alternative: No 3 Tasks an Hour, No 50 MB Cap](https://madosuite.com/alternatives/sejda)
+- [PDF24 Alternative: No Install and No Server](https://madosuite.com/alternatives/pdf24)
+- [PDF Candy Alternative Without Hourly Limits](https://madosuite.com/alternatives/pdf-candy)
+- [Free Soda PDF Alternative in Your Browser](https://madosuite.com/alternatives/soda-pdf)
+- [Free Xodo Alternative: More Than One Action a Day](https://madosuite.com/alternatives/xodo)
+- [PDFgear Alternative You Do Not Have to Install](https://madosuite.com/alternatives/pdfgear)
+- [Adobe Scan Alternative With Free Merge and OCR](https://madosuite.com/alternatives/adobe-scan)
+- [CamScanner Alternative: Scan to PDF With No App](https://madosuite.com/alternatives/camscanner)
+- [Microsoft Lens Alternative After Its Retirement](https://madosuite.com/alternatives/microsoft-lens)
+- [OnlineOCR Alternative: OCR With No Hourly Limit](https://madosuite.com/alternatives/onlineocr)
+
+</details>
+<details>
+<summary><b>Images</b> · 9</summary>
+<br>
+
+- [iLoveIMG Alternative: Edit Images Without Uploading](https://madosuite.com/alternatives/iloveimg)
+- [TinyPNG Alternative: No 5 MB Cap, No Upload](https://madosuite.com/alternatives/tinypng)
+- [Squoosh Alternative for a Whole Folder of Pictures](https://madosuite.com/alternatives/squoosh)
+- [Free remove.bg Alternative, Full Size, No Upload](https://madosuite.com/alternatives/remove-bg)
+- [Free Bigjpg Alternative With No Monthly Count](https://madosuite.com/alternatives/bigjpg)
+- [Free Fotor Alternative That Keeps Photos Private](https://madosuite.com/alternatives/fotor)
+- [Free Pixlr Alternative: Photo Editing Without Ads](https://madosuite.com/alternatives/pixlr)
+- [Photopea Alternative: Photo Editing Plus a Desktop](https://madosuite.com/alternatives/photopea)
+- [SammaPix Alternative With AI That Stays Local](https://madosuite.com/alternatives/sammapix)
+
+</details>
+<details>
+<summary><b>File converters</b> · 6</summary>
+<br>
+
+- [CloudConvert Alternative: No 10-a-Day Limit](https://madosuite.com/alternatives/cloudconvert)
+- [Convertio Alternative: Convert Files With No Upload](https://madosuite.com/alternatives/convertio)
+- [Zamzar Alternative: More Than 2 Files a Day, Free](https://madosuite.com/alternatives/zamzar)
+- [FreeConvert Alternative Without Conversion Minutes](https://madosuite.com/alternatives/freeconvert)
+- [Online-Convert Alternative: No Queue, No Credits](https://madosuite.com/alternatives/online-convert)
+- [123apps Alternative: Video and Audio Without Upload](https://madosuite.com/alternatives/123apps)
+
+</details>
+<details>
+<summary><b>Video and audio</b> · 5</summary>
+<br>
+
+- [Free Clideo Alternative With No Watermark](https://madosuite.com/alternatives/clideo)
+- [Free Kapwing Alternative With No Watermark](https://madosuite.com/alternatives/kapwing)
+- [Clipchamp Alternative Without a Microsoft Account](https://madosuite.com/alternatives/clipchamp)
+- [HandBrake Alternative Online, Nothing to Install](https://madosuite.com/alternatives/handbrake)
+- [Online Audio Converter Alternative, No Upload](https://madosuite.com/alternatives/online-audio-converter)
+
+</details>
+<details>
+<summary><b>ZIP and RAR</b> · 5</summary>
+<br>
+
+- [Free WinRAR Alternative: Open RAR Files Online](https://madosuite.com/alternatives/winrar)
+- [Free WinZip Alternative: Unzip and Zip Online](https://madosuite.com/alternatives/winzip)
+- [7-Zip Alternative for Mac, Phone and Chromebook](https://madosuite.com/alternatives/7-zip)
+- [ezyZip Alternative With PDF and Picture Tools](https://madosuite.com/alternatives/ezyzip)
+- [extract.me Alternative That Reads Files Locally](https://madosuite.com/alternatives/extract-me)
+
+</details>
+<details>
+<summary><b>QR codes</b> · 2</summary>
+<br>
+
+- [QR Code Generator Alternative: Free PNG and SVG](https://madosuite.com/alternatives/qr-code-generator)
+- [Free QR TIGER Alternative: Codes That Never Expire](https://madosuite.com/alternatives/qr-tiger)
+
+</details>
+<details>
+<summary><b>Desktop apps, in the browser</b> · 19</summary>
+<br>
+
+- [Free Microsoft 365 alternative: 4 apps in your browser](https://madosuite.com/alternatives/microsoft-365)
+- [Free Microsoft Word alternative in your browser: Word](https://madosuite.com/alternatives/microsoft-word)
+- [Free Excel alternative in your browser: Grid](https://madosuite.com/alternatives/excel)
+- [Free PowerPoint alternative in your browser: Deck](https://madosuite.com/alternatives/powerpoint)
+- [Free Creative Cloud Pro alternative: 8 apps in your browser](https://madosuite.com/alternatives/creative-cloud)
+- [Free Photoshop alternative in your browser: Photo](https://madosuite.com/alternatives/photoshop)
+- [Free Lightroom alternative in your browser: Light](https://madosuite.com/alternatives/lightroom)
+- [Free Illustrator alternative in your browser: Vector](https://madosuite.com/alternatives/illustrator)
+- [Free InDesign alternative in your browser: Design](https://madosuite.com/alternatives/indesign)
+- [Free Premiere Pro alternative in your browser: Film](https://madosuite.com/alternatives/premiere-pro)
+- [Free After Effects alternative in your browser: Effect](https://madosuite.com/alternatives/after-effects)
+- [Free Audition alternative in your browser: Sound](https://madosuite.com/alternatives/audition)
+- [Free Figma alternative in your browser: Fig](https://madosuite.com/alternatives/figma)
+- [Free Sketch Alternative for Windows and Linux](https://madosuite.com/alternatives/sketch)
+- [Free CorelDRAW Alternative in Your Browser](https://madosuite.com/alternatives/coreldraw)
+- [Free AutoCAD alternative in your browser: CAD](https://madosuite.com/alternatives/autocad)
+- [Free AutoCAD LT alternative in your browser: CAD](https://madosuite.com/alternatives/autocad-lt)
+- [Free Ableton Live alternative in your browser: Sound](https://madosuite.com/alternatives/ableton-live)
+- [Free FL Studio alternative in your browser: Sound](https://madosuite.com/alternatives/fl-studio)
+
+</details>
 
 ## All 356 tools
 
