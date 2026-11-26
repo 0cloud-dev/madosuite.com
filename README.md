@@ -4,6 +4,8 @@
 
 # Madosuite
 
+<sub>by <a href="https://0cloud.dev"><b>0cloud</b></a> · powered by the 0cloud engine and <a href="https://uncontained.sh"><b>Uncontained</b></a></sub>
+
 **Every file job, done in the page. Nothing leaves your device.**
 
 356 free tools for PDF, Word, Excel, PowerPoint, images, video, audio, ZIP and QR.<br>
@@ -181,7 +183,9 @@ You see the result before you download it, and you can change the settings and w
 
 [The Desktop](https://madosuite.com/desktop) opens 13 apps side by side in one tab, sharing the same files: a word processor, spreadsheet, presentations, PDF editor, image editor, vector illustration, photo library and raw editor, interface design, page layout, video, sound, motion effects and CAD. They open and save real `.docx`, `.xlsx`, `.pptx`, `.psd` and more.
 
-These apps are the **ArtCraft team's open-source Crafting Apps** ([getartcraft.com](https://getartcraft.com)), used under MIT or Apache-2.0. Madosuite is not ArtCraft and is not affiliated with it. They are early alpha: each [app page](https://madosuite.com/apps) says what works and what doesn't yet.
+The Desktop itself (its windows, Files, a Terminal and a real Linux machine in the tab) is built by [0cloud](https://0cloud.dev) on the 0cloud engine, powered by [Uncontained](https://uncontained.sh): Node.js, Bun, WebAssembly and arm64 Linux programs running in the browser tab on a real Linux kernel, with no server running them.
+
+The apps are the **ArtCraft team's open-source Crafting Apps** ([getartcraft.com](https://getartcraft.com)), used under MIT or Apache-2.0. Madosuite is not ArtCraft and is not affiliated with it. They are early alpha: each [app page](https://madosuite.com/apps) says what works and what doesn't yet.
 
 ## How it works
 
@@ -207,6 +211,7 @@ The server only hands out the same static files to everyone. There is no endpoin
 | RAR, 7z, ISO and other archives | [libarchive.js](https://github.com/nika-begiashvili/libarchivejs) |
 | Audio to text | Whisper models on ONNX Runtime Web |
 | Translate PDF | Mozilla's Firefox Translations models |
+| Desktop, Files, Terminal, Linux in the tab | The 0cloud engine, powered by [Uncontained](https://uncontained.sh) |
 | Summarize PDF (optional rewrite) | Gemma 4 E2B via [wllama](https://github.com/ngxson/wllama), a one-time 3.2 GB download, computers only |
 
 Every project and model is listed with its licence on the [credits page](https://madosuite.com/credits).
@@ -264,5 +269,6 @@ You don't need to attach a private file. If a file fails, a description or a har
 ---
 
 <div align="center">
-<sub><a href="https://madosuite.com">madosuite.com</a> · <a href="https://madosuite.com/th">ภาษาไทย</a> · <a href="https://madosuite.com/credits">Credits and licences</a></sub>
+<sub><b>Madosuite by <a href="https://0cloud.dev">0cloud</a></b> · powered by the 0cloud engine and <a href="https://uncontained.sh">Uncontained</a></sub><br>
+<sub><a href="https://madosuite.com">madosuite.com</a> · <a href="https://0cloud.dev">0cloud.dev</a> · <a href="https://uncontained.sh">uncontained.sh</a> · <a href="https://madosuite.com/th">ภาษาไทย</a> · <a href="https://madosuite.com/credits">Credits and licences</a></sub>
 </div>
